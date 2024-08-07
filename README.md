@@ -49,7 +49,7 @@ To get started with this project, please follow the steps listed below:
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/DanieleBocchino/AWS-quicksight-project.git
+git clone https://github.com/kadryjr/AWS-quicksight-project.git
 ```
 
 ### Step 2: Download the CSV file and the JSON file
@@ -63,14 +63,14 @@ Head over to the AWS Management Console and create an S3 bucket.
 ### Step 4: Upload the CSV file to the S3 bucket
 
 Upload the CSV file to the S3 bucket.
-![Backet](./assets/s3-bucket.png)
+![Backet](./s3-bucket.png)
 
 
 ### Step 5: Make the necessary changes to the manifest.json file
 
 Open the manifest.json file and make the necessary changes to the file as mentioned in the video.
 
-![Modify](./assets/modify-manifest.png)
+![Modify](./modify-manifest.png)
 
 
 ### Step 6: Connect the S3 bucket with Amazon Quicksight to create visualizations
@@ -81,7 +81,7 @@ Connect the S3 bucket with Amazon Quicksight to create visualizations.
 
 This project provides hands-on experience in using AWS services to create visualizations from large datasets. By following the instructions provided, you can learn how to use Amazon S3 and Amazon Quicksight to create compelling visualizations. Feel free to customize the project to your liking and experiment with different datasets to gain more insights.
 
-![Results](./assets/result.png)
+![Results](./result.png)
 ## License & Credits
 This project is based on the tutorial [Build Interactive Dashboards with Amazon QuickSight](https://www.youtube.com/watch?v=4-8cXuZzKTg&list=PLWBfjpfzscb7rCHCeZHZgm5PgifCZdr1M&index=4) by [Bright Data](https://www.youtube.com/channel/UCZ9Q6iOJgY1v9QYqJwQvE5A). 
 
