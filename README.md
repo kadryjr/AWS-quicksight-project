@@ -1,11 +1,4 @@
 # AWS QuickSight Project
-
-[![GitHub Issues](https://img.shields.io/github/issues/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Stars](https://img.shields.io/github/stars/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Forks](https://img.shields.io/github/forks/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Contributors](https://img.shields.io/github/contributors/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DanieleBocchino/AWS-quicksight-project)](https://github.com/DanieleBocchino/AWS-quicksight-project)
-
 This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksight. This project aims to provide instructions on how to use AWS services to create visualizations from large datasets. 
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
