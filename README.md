@@ -12,17 +12,6 @@ This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksi
 [![S3](https://img.shields.io/badge/AWS_S3-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
 [![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=QuickLook&logoColor=white&labelColor=494949&color=22A2E3)](https://aws.amazon.com/quicksight/)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Overview](#projectoverview)
-- [Data Source](#datascource)
-- [Resources](#resources)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
-- [License & Credits](#license&credits)
-- [Contributors](#contributors)
-
 ## Introduction
 
 This project was created as part of a tutorial by [Tech with Lucy](https://www.youtube.com/c/techwithlucy). The [tutorial](https://www.youtube.com/watch?v=4-8cXuZzKTg&list=PLWBfjpfzscb7rCHCeZHZgm5PgifCZdr1M&index=4), provided a step-by-step guide on how to use Quicksight for data visualization and analysis. Quicksight is an Amazon Web Services (AWS) tool that allows users to create interactive dashboards and reports using their own data. By following the tutorial, I was able to learn how to use Quicksight to create engaging visualizations and gain valuable insights from my data.
@@ -43,8 +32,8 @@ The dataset used in this project is a subset of data from a huge dataset that wa
 
 The following resources were used in the development of this project:
 
-- <img src="./assets/s3.png" alt="Image description" width="25"> Amazon S3
-- <img src="./assets/quicksight.png" alt="Image description" width="25"> Amazon QuickSight
+- <img src="./s3.png" alt="Image description" width="25"> Amazon S3
+- <img src="./quicksight.png" alt="Image description" width="25"> Amazon QuickSight
 
 ## Usage
 
