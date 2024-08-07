@@ -88,14 +88,6 @@ This project is based on the tutorial [Build Interactive Dashboards with Amazon 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit/)
 
 
-## Contributors
-
-[Daniele Bocchino](https://danielebocchino.github.io/)
-
-[![GitHub Followers](https://img.shields.io/github/followers/DanieleBocchino?style=social)](https://github.com/DanieleBocchino)  
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/daniele-bocchino-aa602a20b/)
-
-
 
 
 
